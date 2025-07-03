@@ -1,0 +1,20 @@
+@relation trip_agency_sales
+
+@attribute year numeric
+@attribute month {Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec}
+@attribute advertising_cost numeric
+@attribute revenue numeric
+
+@data
+2023,Jan,1000,5000
+2023,Feb,1200,5500
+2023,Mar,1300,6000
+2023,Apr,1100,5200
+2023,May,1050,5100
+2023,Jun,1150,5300
+2023,Jul,1250,5800
+2023,Aug,1350,6000
+2023,Sep,1400,6200
+2023,Oct,1500,6500
+2023,Nov,1600,6800
+2023,Dec,1800,7000
